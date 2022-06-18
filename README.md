@@ -6,7 +6,7 @@
 2. Crear tu sitio [web en github](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) siguiendo el [modelo git](https://github.com/adsoftsito/web/blob/main/w3/gitBranchingModel.pdf)
 
 
-# sesion 1
+# sesion 2
 1. Crear tu sitio [web en github](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) siguiendo el [modelo git](https://github.com/adsoftsito/web/blob/main/w3/gitBranchingModel.pdf) 
 2. Usar como guia el [laboratorio git](https://github.com/adsoftsito/web/blob/main/w3/gitBranchingLab.pdf)
 3. Receso
